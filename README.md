@@ -21,13 +21,18 @@
 
 Open Termux and run these three commands:
 
-```bash
 # 1 — install git (the only manual step)
+```bash
 pkg install git -y
+```
 
 # 2 — clone this repo
-git clone [https://github.com/futuretonight/interactiveXmRig]
+```bash
+git clone https://github.com/futuretonight/interactiveXmRig
+```
+
 # 3 — run the setup
+```bash
 bash interactiveXmRig/setup.sh
 ```
 
@@ -70,11 +75,13 @@ The script will handle **everything else** automatically.
 
 ## After Setup
 
-```bash
 # Start mining
+```bash
 bash ~/mine.sh
+```
 
 # Edit your config (pool / wallet / threads / etc.)
+```bash
 nano ~/mine.sh
 ```
 
