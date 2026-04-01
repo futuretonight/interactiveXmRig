@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
 # ╔══════════════════════════════════════════════════════════════════╗
-# ║         XMRig Termux Auto-Setup  ·  Android Edition             ║
+# ║         XMRig Termux Auto-Setup  ·  Android Edition              ║
 # ║                                                                  ║
-# ║  Script by  ░▒▓  FutureTonight  ▓▒░                            ║
-# ║  github.com/futuretonight/xmrig-termux-setup                    ║
+# ║  Script by  ░▒▓  FutureTonight  ▓▒░                              ║
+# ║  github.com/futuretonight/interactiveXmRig                       ║
 # ║  Build it once. Mine forever.                                    ║
 # ╚══════════════════════════════════════════════════════════════════╝
 
