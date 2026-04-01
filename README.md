@@ -26,10 +26,9 @@ Open Termux and run these three commands:
 pkg install git -y
 
 # 2 — clone this repo
-git clone https://github.com/YOUR_USERNAME/xmrig-termux-setup.git
-
+git clone [https://github.com/futuretonight/interactiveXmRig]
 # 3 — run the setup
-bash xmrig-termux-setup/setup.sh
+bash interactiveXmRig/setup.sh
 ```
 
 The script will handle **everything else** automatically.
